@@ -1,0 +1,46 @@
+.logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 2px 2px -2px gray;
+}
+
+.site-layout-sub-header-background {
+    background: #fff;
+    border-bottom: 1ch;
+    font-size: large;
+    font-weight: bold;
+    padding-left: 19px;
+    box-shadow: 0 2px 2px -2px lightgray;
+}
+
+.master-sider {
+    overflow: auto;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+
+.ant-pro-card-statistic-trend-up .ant-statistic-content {
+    color: #389e0d !important;
+}
+
+.ant-pro-card-statistic-trend-up .ant-statistic-content .ant-pro-card-statistic-trend-icon {
+    color: #389e0d !important;
+    border-bottom-color: #389e0d !important;
+}
+
+.ant-pro-card-statistic-trend-down .ant-statistic-content {
+    color: #f5222d !important;
+}
+
+.ant-pro-card-statistic-trend-down .ant-statistic-content .ant-pro-card-statistic-trend-icon {
+    color: #f5222d !important;
+    border-bottom-color: #f5222d !important;
+}
